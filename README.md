@@ -1,2 +1,2 @@
-# Flowzenix-Digital-Shop
+# Flowzenix.shop
 Digital Software Subscription 
